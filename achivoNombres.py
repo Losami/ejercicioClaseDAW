@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Andres Felipe Londoño Martinez :D
 Jesus Blanco Astilleros
 =======
@@ -9,3 +10,6 @@ Víctor Valero Quirós
 Jordi Roa Aymerich
 >>>>>>> 9102786f0d2d2e43162d7f86f8295555794a1903
 >>>>>>> origin/main
+=======
+Albert Parrado Serra
+>>>>>>> origin/NuevaRamaAPS
